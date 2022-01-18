@@ -1,0 +1,25 @@
+{
+  "name": "userinterfacepractice",
+  "version": "1.0.0",
+  "description": "This is where I practice user interfaces with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack -- watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conno732/UserInterfacePractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Conno732/UserInterfacePractice/issues"
+  },
+  "homepage": "https://github.com/Conno732/UserInterfacePractice#readme",
+  "dependencies": {
+    "webpack": "^5.66.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
