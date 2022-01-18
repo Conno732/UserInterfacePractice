@@ -1,2 +1,2 @@
 # UserInterfacePractice
-This is a showcase of several user interfaces I am practicing
+This is where I practice user interfaces with javascript
